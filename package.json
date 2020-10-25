@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "who#0301 <shaverio.second@gmail.com>",
+  "author": "who# <shaverio.second@gmail.com>",
   "private": true,
   "homepage": "https://github.com/elbertrio/MusiCake/tree/master",
   "repository": "github:elbertrio/musicake",

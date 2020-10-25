@@ -1,13 +1,13 @@
 {
-  "name": "evobot",
-  "version": "0.8.0",
+  "name": "MusiCake",
+  "version": "0.0.5",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "who#0301 <shaverio.second@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/elbertrio/MusiCake/tree/master",
+  "repository": "github:elbertrio/musicake",
+  "bugs": "https://github.com/elbertrio/MusiCake/issues",
   "engines": {
     "node": ">=12.0.0"
   },

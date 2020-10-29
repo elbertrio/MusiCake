@@ -1,5 +1,5 @@
 
-# 🤖 EvoBot (Discord Music Bot)
+# 🤖 MusiCake (Discord Music Bot)
 > MusiCake is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
@@ -83,15 +83,3 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 * Media Controls via Reactions
 ![reactions](https://i.imgur.com/j7CevsH.png)
 
-## 🤝 Contributing
-
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
-
-## 📝 Credits
-
-[@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
